@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+datascraping/.idea/
+datascraping/datascraping.iml
+datascraping/pom.xml
+datascraping/src/
+datascraping/target/
+geckodriver.log
